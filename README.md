@@ -1,4 +1,4 @@
-# ToDoApp
+# Chat
 ![preview](https://github.com/fxckfxtxre/Chat/blob/main/preview.png?raw=true)
 
 - Flask Framework (Python)
