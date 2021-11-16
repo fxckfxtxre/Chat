@@ -4,6 +4,7 @@
 - Flask Framework (Python)
 - JavaScript
 - Bootstrap 5
+- Socket.io
 
 ## Run
 1.
